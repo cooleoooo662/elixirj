@@ -1,7 +1,7 @@
 {
-  "name": "elixir",
-  "version": "1.0.0",
-  "description": "Official Elxiir deployment with TompHTTP bare server included.",
+  "name": "elixirj",
+  "version": "1.9.0",
+  "description": "",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
@@ -9,9 +9,9 @@
   "files": ["static", "src"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whos-evan/elxiir.git"
+    "url": "git+https://github.com/cooleoooo662/elixirj.git"
   },
-  "keywords": ["official", "elixir", "bare-server", "bypass-filter", "evan"],
+  "keywords": ["chat", "skibiti", "sigma", "digma", "cool"],
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
